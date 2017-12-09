@@ -604,7 +604,7 @@ input:-ms-input-placeholder {
 }
 
 .menu-bg{
-    background:#ffc038;
+    background: #FF9966;
     padding:10px 0;
 }
 
@@ -612,7 +612,7 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color:#ffc038;
+    background-color: #FF9966;
     color:#fff;
 }
 .homepage-style{
