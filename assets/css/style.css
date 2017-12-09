@@ -580,11 +580,11 @@ input:-ms-input-placeholder {
 }
 
 .navbar-default .navbar-nav>.active a{
-    background-color:transparent;
+    background-color: #FFFFE0;
 }
 .navbar-default .navbar-nav>.active a:hover{
     background-color:transparent;
-    color:#fff;
+    color:#FAFAD2;
 }
 .navbar-default .navbar-nav>li>a {
     color:#464646;
@@ -604,7 +604,7 @@ input:-ms-input-placeholder {
 }
 
 .menu-bg{
-    background: #FF9966;
+    background: #FF9999;
     padding:10px 0;
 }
 
@@ -612,7 +612,7 @@ input:-ms-input-placeholder {
 /*Home Page Style*/
 
 #home{
-    background-color: #FF9966;
+    background-image: url('C:/Users/Eve/Documents/GitHub/carcar/assets/images/pastel.jpg');
     color:#fff;
 }
 .homepage-style{
